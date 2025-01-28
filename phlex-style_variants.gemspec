@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary = 'A powerful variant API for phlex components'
   spec.homepage = 'https://github.com/omarluq/phlex-style_variants'
   spec.license = 'MIT'
-  spec.required_ruby_version = '>= 3.1'
+  spec.required_ruby_version = '>= 3.2'
 
   spec.metadata = {
     'bug_tracker_uri' => 'https://github.com/omarluq/phlex-style_variants/issues',
